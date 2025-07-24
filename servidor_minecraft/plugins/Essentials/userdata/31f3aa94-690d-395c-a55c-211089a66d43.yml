@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.219.183.12
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1753380889694
+  login: 1753390304753
+money: '0'
+last-account-name: TULIO
+lastlocation:
+  world: eaa81554-90a1-489c-902f-f104ce8a5bf4
+  world-name: world
+  x: -29.69999998807907
+  y: 69.0
+  z: 81.4835767201007
+  yaw: 103.35039520263672
+  pitch: 55.05005645751953
+logoutlocation:
+  world: eaa81554-90a1-489c-902f-f104ce8a5bf4
+  world-name: world
+  x: -20.5
+  y: 70.0
+  z: 74.5
+  yaw: 0.0
+  pitch: 0.0

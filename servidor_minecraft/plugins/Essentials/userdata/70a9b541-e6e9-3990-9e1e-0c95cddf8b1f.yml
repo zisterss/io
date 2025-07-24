@@ -11,20 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1753390653599
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1753374460820
-  login: 1753374475368
+  logout: 1753382659454
+  login: 1753390464320
 money: '0'
 last-account-name: Griffo
 logoutlocation:
   world: eaa81554-90a1-489c-902f-f104ce8a5bf4
   world-name: world
-  x: 20.69999998807907
-  y: 67.0
-  z: 68.69999998807907
-  yaw: 87.8991470336914
-  pitch: -8.850053787231445
+  x: -32.42598506408469
+  y: 69.0
+  z: 55.59742305530229
+  yaw: 62.1170654296875
+  pitch: -35.5499267578125
+lastlocation:
+  world: eaa81554-90a1-489c-902f-f104ce8a5bf4
+  world-name: world
+  x: -11.70930091087055
+  y: 83.49542337472208
+  z: 50.77761627728117
+  yaw: 85.366943359375
+  pitch: 53.85007858276367
