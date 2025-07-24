@@ -180,3 +180,7 @@
 [21:55:35] [Server thread/INFO]: Griffo issued server command: //set 0
 [21:58:40] [Server thread/INFO]: Griffo issued server command: //set 0
 [22:00:24] [Server thread/INFO]: Griffo issued server command: //set grass_block
+[22:00:45] [Server thread/INFO]: Griffo issued server command: //set grass_block
+[22:02:17] [Server thread/INFO]: Griffo issued server command: //set 0
+[22:02:41] [Server thread/INFO]: Griffo issued server command: //set grass_block
+[22:03:23] [Server thread/INFO]: Griffo issued server command: //set 0
