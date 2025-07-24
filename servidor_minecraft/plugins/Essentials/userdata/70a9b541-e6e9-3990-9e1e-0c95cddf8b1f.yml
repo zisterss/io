@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1753382659454
-  login: 1753390464320
+  logout: 1753393751180
+  login: 1753393752316
 money: '0'
 last-account-name: Griffo
 logoutlocation:
   world: eaa81554-90a1-489c-902f-f104ce8a5bf4
   world-name: world
-  x: -32.42598506408469
-  y: 69.0
-  z: 55.59742305530229
-  yaw: 62.1170654296875
-  pitch: -35.5499267578125
+  x: -45.17367036893783
+  y: 68.0
+  z: 39.56722152979603
+  yaw: 93.62322998046875
+  pitch: -52.05020523071289
 lastlocation:
   world: eaa81554-90a1-489c-902f-f104ce8a5bf4
   world-name: world
