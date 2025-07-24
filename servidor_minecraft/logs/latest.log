@@ -184,3 +184,5 @@
 [22:02:17] [Server thread/INFO]: Griffo issued server command: //set 0
 [22:02:41] [Server thread/INFO]: Griffo issued server command: //set grass_block
 [22:03:23] [Server thread/INFO]: Griffo issued server command: //set 0
+[22:15:05] [Server thread/INFO]: [GriefPrevention] Griffo placed a sign @ world: x-2, z67;v
+[22:34:43] [Server thread/INFO]: Griffo issued server command: /dynmap render
