@@ -166,3 +166,10 @@
 [20:56:19] [Server thread/INFO]: Griffo has made the advancement [Monster Hunter]
 [20:57:16] [Server thread/INFO]: TULIO issued server command: /Warp lobby
 [20:57:33] [Server thread/INFO]: Griffo issued server command: /warp lobby
+[21:05:40] [Server thread/INFO]: Griffo issued server command: /set 0
+[21:05:59] [Server thread/INFO]: Griffo issued server command: /setblock 0
+[21:06:22] [Server thread/INFO]: Griffo issued server command: /help
+[21:06:53] [Server thread/INFO]: Griffo issued server command: /help WorldEdit
+[21:07:35] [Server thread/INFO]: Griffo issued server command: /help WorldEdit 2
+[21:10:32] [Server thread/INFO]: Griffo issued server command: /time set day
+[21:10:33] [Server thread/INFO]: TULIO was slain by Zombie
