@@ -172,3 +172,11 @@
 [21:49:11] [Server thread/INFO]: Griffo left the game
 [21:49:12] [Server thread/INFO]: Griffo joined the game
 [21:49:12] [Server thread/INFO]: Griffo[/127.219.183.12:48151] logged in with entity id 1133 at ([world]-45.17367036893783, 68.0, 39.56722152979603)
+[21:50:17] [Server thread/INFO]: Griffo issued server command: //set grass_block
+[21:50:45] [Server thread/INFO]: Griffo issued server command: //set 0
+[21:53:41] [Server thread/INFO]: Griffo issued server command: //set 0
+[21:54:18] [Server thread/INFO]: Griffo issued server command: //set grass_block
+[21:54:35] [Server thread/INFO]: Griffo issued server command: //set grass_block
+[21:55:35] [Server thread/INFO]: Griffo issued server command: //set 0
+[21:58:40] [Server thread/INFO]: Griffo issued server command: //set 0
+[22:00:24] [Server thread/INFO]: Griffo issued server command: //set grass_block
