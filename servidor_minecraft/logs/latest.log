@@ -182,3 +182,9 @@
 [00:12:19] [Server thread/INFO]: Griffo was kicked due to keepalive timeout!
 [00:12:19] [Server thread/INFO]: Griffo lost connection: Timed out
 [00:12:19] [Server thread/INFO]: Griffo left the game
+[00:18:28] [User Authenticator #1/INFO]: UUID of player Griffo is 70a9b541-e6e9-3990-9e1e-0c95cddf8b1f
+[00:18:29] [Server thread/INFO]: Griffo joined the game
+[00:18:29] [Server thread/INFO]: Griffo[/127.219.183.12:38205] logged in with entity id 641 at ([world]-90.2758490885776, 101.49313633802555, 108.37843705131998)
+[00:20:06] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 1f03a2ad-a548-4388-832b-08e497dfb581, mapped to Chicken['Chicken'/903, uuid='1f03a2ad-a548-4388-832b-08e497dfb581', l='ServerLevel[world]', x=187.78, y=75.00, z=-86.86, cpos=[11, -6], tl=0, v=true], can't add Chicken['Chicken'/910, uuid='1f03a2ad-a548-4388-832b-08e497dfb581', l='ServerLevel[world]', x=193.40, y=75.00, z=-94.07, cpos=[12, -6], tl=0, v=false]
+[00:24:24] [Server thread/INFO]: Griffo lost connection: Disconnected
+[00:24:24] [Server thread/INFO]: Griffo left the game
