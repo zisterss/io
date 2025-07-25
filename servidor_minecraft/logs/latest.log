@@ -189,3 +189,11 @@
 [05:03:00] [Server thread/INFO]: Griffo issued server command: //set spru
 [05:03:15] [Server thread/INFO]: Griffo issued server command: //set spruce_planks
 [05:03:28] [Server thread/INFO]: Griffo issued server command: //set spruce_planks
+[05:12:26] [Server thread/INFO]: Griffo issued server command: //copy
+[05:13:02] [Server thread/INFO]: Griffo issued server command: //paste
+[05:13:58] [Server thread/INFO]: Griffo issued server command: //set 0
+[05:14:26] [Server thread/INFO]: Griffo issued server command: //set dried_ghast
+[05:14:57] [Server thread/INFO]: Griffo issued server command: //set grass_block
+[05:15:21] [Server thread/INFO]: Griffo issued server command: //paste
+[05:15:30] [Server thread/INFO]: Griffo issued server command: //paste
+[05:17:24] [Server thread/INFO]: Griffo issued server command: //copy
