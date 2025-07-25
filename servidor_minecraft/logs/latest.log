@@ -185,3 +185,7 @@
 [04:42:10] [Server thread/INFO]: Griffo left the game
 [04:42:11] [Server thread/INFO]: Griffo joined the game
 [04:42:11] [Server thread/INFO]: Griffo[/127.219.183.12:59967] logged in with entity id 1594 at ([world]-24.30000001192093, 73.6238813322904, 168.15605945484413)
+[05:01:59] [Server thread/INFO]: Griffo issued server command: //set
+[05:03:00] [Server thread/INFO]: Griffo issued server command: //set spru
+[05:03:15] [Server thread/INFO]: Griffo issued server command: //set spruce_planks
+[05:03:28] [Server thread/INFO]: Griffo issued server command: //set spruce_planks
