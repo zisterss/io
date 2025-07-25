@@ -183,3 +183,6 @@
 [03:57:15] [Server thread/INFO]: .Lupper6472 issued server command: /help
 [03:57:15] [Server thread/INFO]: [Essentials] .Lupper6472 was denied access to command.
 [03:57:39] [Server thread/INFO]: .Lupper6472 issued server command: //help
+[04:14:27] [User Authenticator #0/INFO]: UUID of player Griffo is 70a9b541-e6e9-3990-9e1e-0c95cddf8b1f
+[04:14:30] [Server thread/INFO]: Griffo joined the game
+[04:14:30] [Server thread/INFO]: Griffo[/127.219.183.12:58237] logged in with entity id 2315 at ([world]-44.68016985016159, 69.0, 95.56751439128394)
