@@ -180,3 +180,8 @@
 [04:35:41] [User Authenticator #1/INFO]: UUID of player Griffo is 70a9b541-e6e9-3990-9e1e-0c95cddf8b1f
 [04:35:42] [Server thread/INFO]: Griffo joined the game
 [04:35:42] [Server thread/INFO]: Griffo[/127.219.183.12:57387] logged in with entity id 653 at ([world]-7.707574046957715, 70.38454036129023, 123.86510991919369)
+[04:42:10] [User Authenticator #2/INFO]: UUID of player Griffo is 70a9b541-e6e9-3990-9e1e-0c95cddf8b1f
+[04:42:10] [Server thread/INFO]: Griffo lost connection: You logged in from another location
+[04:42:10] [Server thread/INFO]: Griffo left the game
+[04:42:11] [Server thread/INFO]: Griffo joined the game
+[04:42:11] [Server thread/INFO]: Griffo[/127.219.183.12:59967] logged in with entity id 1594 at ([world]-24.30000001192093, 73.6238813322904, 168.15605945484413)
