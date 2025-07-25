@@ -1,8 +1,9 @@
 {"sets": {"markers": {"hide": false,"circles": {}
 ,"areas": {}
 ,"label": "Markers","markers": {"_spawn_world": {"markup": false,"x": -16.00,"icon": "world","y": 71.00,"dim": "16x16","z": 64.00,"label": "Spawn"}
+,"marker_1": {"markup": false,"x": -16.00,"icon": "temple","y": 72.00,"dim": "16x16","z": 64.00,"label": "~"}
 }
 ,"lines": {}
 ,"layerprio": 0}
 }
-,"timestamp": 1753393262707}
+,"timestamp": 1753401888270}

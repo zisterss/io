@@ -1,200 +1,184 @@
-[21:40:29] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
-[21:40:29] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
-[21:40:29] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[21:40:33] [ServerMain/INFO]: [PluginInitializerManager] Initialized 9 plugins
-[21:40:33] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (9):
+[00:04:16] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[00:04:16] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[00:04:16] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[00:04:19] [ServerMain/INFO]: [PluginInitializerManager] Initialized 9 plugins
+[00:04:19] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (9):
  - ChestShop (3.12.2 (build 353)), Essentials (2.21.2-dev+33-ff7c952), GriefPrevention (16.18.4), ViaBackwards (5.4.2), ViaRewind (4.0.8), ViaVersion (5.4.1), WorldEdit (7.3.16+cbf4bd5), WorldGuard (7.0.14+2339-43997ec), dynmap (3.7-SNAPSHOT-991)
-[21:40:39] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:40:42] [ServerMain/INFO]: Loaded 1407 recipes
-[21:40:42] [ServerMain/INFO]: Loaded 1520 advancements
-[21:40:42] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[21:40:42] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 493.4ms
-[21:40:43] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[21:40:43] [Server thread/INFO]: Loading properties
-[21:40:43] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
-[21:40:43] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[21:40:43] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[21:40:43] [Server thread/INFO]: Using 4 threads for Netty based IO
-[21:40:44] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[21:40:44] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[21:40:44] [Server thread/INFO]: Default game type: SURVIVAL
-[21:40:44] [Server thread/INFO]: Generating keypair
-[21:40:44] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:40:44] [Server thread/INFO]: Using epoll channel type
-[21:40:45] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[21:40:45] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[21:40:45] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.16+cbf4bd5
-[21:40:46] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@74d5639e]
-[21:40:46] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.1
-[21:40:46] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.1 is now loaded. Registering protocol transformers and injecting...
-[21:40:46] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[21:40:47] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[21:40:47] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[21:40:47] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[21:40:47] [Server thread/INFO]: [ViaRewind] Registering protocols...
-[21:40:48] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.14+2339-43997ec
-[21:40:48] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.2
-[21:40:48] [Server thread/INFO]: [GriefPrevention] Loading server plugin GriefPrevention v16.18.4
-[21:40:48] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.2-dev+33-ff7c952
-[21:40:48] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.8
-[21:40:48] [Server thread/INFO]: [dynmap] Loading server plugin dynmap v3.7-SNAPSHOT-991
-[21:40:48] [Server thread/INFO]: [dynmap] version=1.21.8-6-782ce95 (MC: 1.21.8)
-[21:40:48] [Server thread/INFO]: [dynmap] Mod Support API available
-[21:40:48] [Server thread/INFO]: [ChestShop] Loading server plugin ChestShop v3.12.2 (build 353)
-[21:40:48] [Server thread/INFO]: [ChestShop] WorldGuard version 7.0.14+2339-43997ec loaded.
-[21:40:48] [Server thread/INFO]: [ChestShop] GriefPrevention version 16.18.4 loaded.
-[21:40:48] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:40:48] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.16+cbf4bd5
-[21:40:48] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[21:40:48] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[21:40:48] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21_6.PaperweightAdapter as the Bukkit adapter
-[21:40:50] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.8
-[21:40:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:40:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:40:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:40:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:40:50] [Server thread/INFO]: Preparing level "world"
-[21:40:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:40:52] [Server thread/INFO]: Preparing spawn area: 0%
-[21:40:52] [Server thread/INFO]: Preparing spawn area: 0%
-[21:40:53] [Server thread/INFO]: Preparing spawn area: 2%
-[21:40:53] [Server thread/INFO]: Preparing spawn area: 2%
-[21:40:53] [Server thread/INFO]: Time elapsed: 1569 ms
-[21:40:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[21:40:53] [Server thread/INFO]: Preparing spawn area: 0%
-[21:40:53] [Server thread/INFO]: Time elapsed: 218 ms
-[21:40:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[21:40:53] [Server thread/INFO]: Preparing spawn area: 0%
-[21:40:53] [Server thread/INFO]: Time elapsed: 131 ms
-[21:40:53] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.1
-[21:40:53] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.7 (772)
-[21:40:53] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.14+2339-43997ec
-[21:40:53] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
-[21:40:53] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
-[21:40:53] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
-[21:40:53] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
-[21:40:53] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
-[21:40:53] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
-[21:40:53] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
-[21:40:53] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
-[21:40:53] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
-[21:40:53] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
-[21:40:53] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
-[21:40:53] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
-[21:40:53] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
-[21:40:53] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
-[21:40:53] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
-[21:40:53] [Server thread/INFO]: [WorldGuard] Loading region data...
-[21:40:54] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.2
-[21:40:54] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.18.4
-[21:40:54] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
-[21:40:54] [Server thread/INFO]: [GriefPrevention] 0 total claims loaded.
-[21:40:54] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
-[21:40:54] [Server thread/INFO]: [GriefPrevention] Successfully hooked into WorldGuard.
-[21:40:54] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
-[21:40:54] [Server thread/INFO]: [GriefPrevention] Boot finished.
-[21:40:54] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.2-dev+33-ff7c952
-[21:40:54] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[21:40:54] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[21:40:55] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
-[21:40:55] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
-[21:40:55] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
-[21:40:55] [Server thread/INFO]: [Essentials] Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
-[21:40:55] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
-[21:40:55] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
-[21:40:55] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
-[21:40:55] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
-[21:40:55] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
-[21:40:55] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
-[21:40:55] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
-[21:40:55] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
-[21:40:55] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
-[21:40:55] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
-[21:40:55] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
-[21:40:55] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
-[21:40:55] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
-[21:40:55] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
-[21:40:55] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
-[21:40:55] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
-[21:40:55] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
-[21:40:55] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
-[21:40:55] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
-[21:40:55] [Server thread/INFO]: [Essentials] Loaded 43880 items from items.json.
-[21:40:55] [Server thread/INFO]: [Essentials] Using locale en
-[21:40:55] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[21:40:56] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[21:40:56] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[21:40:56] [Server thread/INFO]: [dynmap] Enabling dynmap v3.7-SNAPSHOT-991
-[21:40:56] [Server thread/INFO]: [dynmap] Added 21 custom biome mappings
-[21:40:56] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
-[21:40:56] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
-[21:40:56] [Server thread/INFO]: [dynmap] Mod Support processing completed
-[21:40:59] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
-[21:40:59] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
-[21:40:59] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
-[21:40:59] [Server thread/INFO]: [dynmap] Starting enter/exit processing
-[21:40:59] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
-[21:40:59] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
-[21:40:59] [Server thread/INFO]: [dynmap] version 3.7-SNAPSHOT-991 is enabled - core version 3.7-SNAPSHOT-1002
-[21:40:59] [Server thread/INFO]: [dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
-[21:40:59] [Server thread/INFO]: [dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://universeodon.com/@dynmap
-[21:40:59] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
-[21:40:59] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
-[21:40:59] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
-[21:40:59] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
-[21:40:59] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
-[21:40:59] [Server thread/INFO]: [dynmap] Enabled
-[21:40:59] [Server thread/INFO]: [ChestShop] Enabling ChestShop v3.12.2 (build 353)
-[21:41:00] [Server thread/INFO]: [ChestShop] Found locales zh_tw, zh, vi, uk, tr, sv, sr, ru, ro, pt_br, pl, no, nl, ko, ja, it, hu, he, fr, fi, es_mx, es, en, el, de, da, cs, ca, ar, af
-[21:41:00] [Server thread/ERROR]: [ChestShop] No Economy adapter found! You need to install either Vault or Reserve!
-[21:41:00] [Server thread/INFO]: [ChestShop] Disabling ChestShop v3.12.2 (build 353)
-[21:41:00] [Server thread/INFO]: [spark] Starting background profiler...
-[21:41:01] [Server thread/INFO]: Done preparing level "world" (11.170s)
-[21:41:01] [Server thread/INFO]: Running delayed init tasks
-[21:41:01] [Craft Scheduler Thread - 3 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[21:41:01] [Craft Scheduler Thread - 1 - Essentials/INFO]: [Essentials] Fetching version information...
-[21:41:01] [Server thread/INFO]: Done (34.324s)! For help, type "help"
-[21:41:01] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.4.2, you're on: 5.4.1
-[21:42:36] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
-[21:42:46] [User Authenticator #0/INFO]: UUID of player Griffo is 70a9b541-e6e9-3990-9e1e-0c95cddf8b1f
-[21:42:46] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [Essentials, GriefPrevention, WorldGuard]
-[21:42:48] [Server thread/INFO]: Griffo joined the game
-[21:42:48] [Server thread/INFO]: Griffo[/127.219.183.12:49355] logged in with entity id 93 at ([world]-8.748165187585569, 102.18986694121925, 101.90349335572188)
-[21:42:48] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 6f2f8da9-0ecc-4b59-b724-557bbeba24ae, mapped to Chicken['Chicken'/62, uuid='6f2f8da9-0ecc-4b59-b724-557bbeba24ae', l='ServerLevel[world]', x=-20.87, y=76.00, z=126.58, cpos=[-2, 7], tl=0, v=true], can't add Chicken['Chicken'/98, uuid='6f2f8da9-0ecc-4b59-b724-557bbeba24ae', l='ServerLevel[world]', x=-15.26, y=76.00, z=130.74, cpos=[-1, 8], tl=0, v=false]
-[21:44:47] [Server thread/INFO]: Griffo issued server command: //set 0
-[21:46:13] [Server thread/INFO]: Griffo issued server command: //set di
-[21:47:18] [Server thread/INFO]: Griffo issued server command: //set glass
-[21:47:30] [Server thread/INFO]: Griffo issued server command: //set glass
-[21:47:42] [Server thread/INFO]: Griffo issued server command: //set grass_block
-[21:48:12] [Server thread/INFO]: Griffo issued server command: //set 0
-[21:49:11] [User Authenticator #1/INFO]: UUID of player Griffo is 70a9b541-e6e9-3990-9e1e-0c95cddf8b1f
-[21:49:11] [Server thread/INFO]: Griffo lost connection: You logged in from another location
-[21:49:11] [Server thread/INFO]: Griffo left the game
-[21:49:12] [Server thread/INFO]: Griffo joined the game
-[21:49:12] [Server thread/INFO]: Griffo[/127.219.183.12:48151] logged in with entity id 1133 at ([world]-45.17367036893783, 68.0, 39.56722152979603)
-[21:50:17] [Server thread/INFO]: Griffo issued server command: //set grass_block
-[21:50:45] [Server thread/INFO]: Griffo issued server command: //set 0
-[21:53:41] [Server thread/INFO]: Griffo issued server command: //set 0
-[21:54:18] [Server thread/INFO]: Griffo issued server command: //set grass_block
-[21:54:35] [Server thread/INFO]: Griffo issued server command: //set grass_block
-[21:55:35] [Server thread/INFO]: Griffo issued server command: //set 0
-[21:58:40] [Server thread/INFO]: Griffo issued server command: //set 0
-[22:00:24] [Server thread/INFO]: Griffo issued server command: //set grass_block
-[22:00:45] [Server thread/INFO]: Griffo issued server command: //set grass_block
-[22:02:17] [Server thread/INFO]: Griffo issued server command: //set 0
-[22:02:41] [Server thread/INFO]: Griffo issued server command: //set grass_block
-[22:03:23] [Server thread/INFO]: Griffo issued server command: //set 0
-[22:15:05] [Server thread/INFO]: [GriefPrevention] Griffo placed a sign @ world: x-2, z67;v
-[22:34:43] [Server thread/INFO]: Griffo issued server command: /dynmap render
-[22:40:00] [Server thread/INFO]: Griffo issued server command: //set stone_bricks
-[22:40:56] [Server thread/INFO]: Griffo issued server command: //set stone_bricks
-[22:41:32] [Server thread/INFO]: Griffo issued server command: //set stone_bricks
-[22:42:16] [Server thread/INFO]: Griffo issued server command: //set 0
-[22:42:51] [Server thread/INFO]: Griffo issued server command: //set grass_block
-[22:43:25] [Server thread/INFO]: Griffo issued server command: //set stone_bricks
-[22:43:56] [Server thread/INFO]: Griffo issued server command: //set stone_bricks
-[22:44:30] [Server thread/INFO]: Griffo issued server command: //set stone_bricks
-[22:45:04] [Server thread/INFO]: Griffo issued server command: //set stone_bricks
-[22:45:20] [Server thread/INFO]: Griffo issued server command: //set 0
-[22:45:29] [Server thread/INFO]: Griffo issued server command: //set grass_block
-[22:46:43] [Server thread/INFO]: Griffo issued server command: //set grass_block
+[00:04:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:04:28] [ServerMain/INFO]: Loaded 1407 recipes
+[00:04:28] [ServerMain/INFO]: Loaded 1520 advancements
+[00:04:28] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[00:04:29] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 523.6ms
+[00:04:29] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[00:04:29] [Server thread/INFO]: Loading properties
+[00:04:29] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[00:04:29] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[00:04:29] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:04:29] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:04:30] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[00:04:30] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[00:04:30] [Server thread/INFO]: Default game type: SURVIVAL
+[00:04:30] [Server thread/INFO]: Generating keypair
+[00:04:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:04:30] [Server thread/INFO]: Using epoll channel type
+[00:04:30] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[00:04:30] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[00:04:31] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.16+cbf4bd5
+[00:04:32] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@242171e4]
+[00:04:32] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.1
+[00:04:32] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.1 is now loaded. Registering protocol transformers and injecting...
+[00:04:32] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[00:04:33] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[00:04:33] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[00:04:33] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[00:04:33] [Server thread/INFO]: [ViaRewind] Registering protocols...
+[00:04:34] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.14+2339-43997ec
+[00:04:34] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.2
+[00:04:34] [Server thread/INFO]: [GriefPrevention] Loading server plugin GriefPrevention v16.18.4
+[00:04:34] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.2-dev+33-ff7c952
+[00:04:34] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.8
+[00:04:34] [Server thread/INFO]: [dynmap] Loading server plugin dynmap v3.7-SNAPSHOT-991
+[00:04:34] [Server thread/INFO]: [dynmap] version=1.21.8-6-782ce95 (MC: 1.21.8)
+[00:04:34] [Server thread/INFO]: [dynmap] Mod Support API available
+[00:04:34] [Server thread/INFO]: [ChestShop] Loading server plugin ChestShop v3.12.2 (build 353)
+[00:04:34] [Server thread/INFO]: [ChestShop] WorldGuard version 7.0.14+2339-43997ec loaded.
+[00:04:34] [Server thread/INFO]: [ChestShop] GriefPrevention version 16.18.4 loaded.
+[00:04:34] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:04:34] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.16+cbf4bd5
+[00:04:34] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[00:04:34] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[00:04:34] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21_6.PaperweightAdapter as the Bukkit adapter
+[00:04:36] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.8
+[00:04:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:04:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:04:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:04:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:04:36] [Server thread/INFO]: Preparing level "world"
+[00:04:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:04:37] [Server thread/INFO]: Preparing spawn area: 0%
+[00:04:38] [Server thread/INFO]: Preparing spawn area: 0%
+[00:04:38] [Server thread/INFO]: Preparing spawn area: 0%
+[00:04:38] [Server thread/INFO]: Time elapsed: 1096 ms
+[00:04:38] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[00:04:38] [Server thread/INFO]: Preparing spawn area: 0%
+[00:04:38] [Server thread/INFO]: Time elapsed: 158 ms
+[00:04:38] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:04:38] [Server thread/INFO]: Preparing spawn area: 0%
+[00:04:38] [Server thread/INFO]: Time elapsed: 92 ms
+[00:04:38] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.1
+[00:04:38] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.7 (772)
+[00:04:38] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.14+2339-43997ec
+[00:04:39] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[00:04:39] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[00:04:39] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[00:04:39] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[00:04:39] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[00:04:39] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[00:04:39] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[00:04:39] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[00:04:39] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[00:04:39] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[00:04:39] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[00:04:39] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[00:04:39] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[00:04:39] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[00:04:39] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[00:04:39] [Server thread/INFO]: [WorldGuard] Loading region data...
+[00:04:39] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.2
+[00:04:39] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.18.4
+[00:04:39] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
+[00:04:39] [Server thread/INFO]: [GriefPrevention] 0 total claims loaded.
+[00:04:39] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
+[00:04:39] [Server thread/INFO]: [GriefPrevention] Successfully hooked into WorldGuard.
+[00:04:39] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
+[00:04:39] [Server thread/INFO]: [GriefPrevention] Boot finished.
+[00:04:39] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.2-dev+33-ff7c952
+[00:04:40] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[00:04:40] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[00:04:40] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[00:04:40] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[00:04:40] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[00:04:40] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[00:04:40] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[00:04:40] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[00:04:40] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[00:04:40] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[00:04:40] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[00:04:40] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[00:04:40] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[00:04:40] [Server thread/INFO]: [Essentials] Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
+[00:04:40] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[00:04:40] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[00:04:40] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[00:04:40] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[00:04:40] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[00:04:40] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[00:04:40] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[00:04:40] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[00:04:40] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[00:04:40] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[00:04:40] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[00:04:40] [Server thread/INFO]: [Essentials] Loaded 43880 items from items.json.
+[00:04:40] [Server thread/INFO]: [Essentials] Using locale en
+[00:04:41] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[00:04:41] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[00:04:41] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[00:04:41] [Server thread/INFO]: [dynmap] Enabling dynmap v3.7-SNAPSHOT-991
+[00:04:41] [Server thread/INFO]: [dynmap] Added 21 custom biome mappings
+[00:04:41] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[00:04:41] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
+[00:04:42] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[00:04:45] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
+[00:04:45] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
+[00:04:45] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
+[00:04:45] [Server thread/INFO]: [dynmap] Starting enter/exit processing
+[00:04:45] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
+[00:04:45] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[00:04:45] [Server thread/INFO]: [dynmap] version 3.7-SNAPSHOT-991 is enabled - core version 3.7-SNAPSHOT-1002
+[00:04:45] [Server thread/INFO]: [dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
+[00:04:45] [Server thread/INFO]: [dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://universeodon.com/@dynmap
+[00:04:45] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[00:04:45] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
+[00:04:45] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[00:04:45] [Server thread/INFO]: [dynmap] Loaded 3 pending tile renders for world 'world'
+[00:04:45] [Server thread/INFO]: [dynmap] Full render for world 'world' restored
+[00:04:45] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[00:04:45] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[00:04:45] [Server thread/INFO]: [dynmap] Enabled
+[00:04:45] [Server thread/INFO]: [ChestShop] Enabling ChestShop v3.12.2 (build 353)
+[00:04:45] [Server thread/INFO]: [ChestShop] Found locales zh_tw, zh, vi, uk, tr, sv, sr, ru, ro, pt_br, pl, no, nl, ko, ja, it, hu, he, fr, fi, es_mx, es, en, el, de, da, cs, ca, ar, af
+[00:04:46] [Server thread/ERROR]: [ChestShop] No Economy adapter found! You need to install either Vault or Reserve!
+[00:04:46] [Server thread/INFO]: [ChestShop] Disabling ChestShop v3.12.2 (build 353)
+[00:04:46] [Server thread/INFO]: [spark] Starting background profiler...
+[00:04:47] [Server thread/INFO]: Done preparing level "world" (11.091s)
+[00:04:47] [Server thread/INFO]: Running delayed init tasks
+[00:04:47] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[00:04:47] [Craft Scheduler Thread - 1 - Essentials/INFO]: [Essentials] Fetching version information...
+[00:04:47] [Server thread/INFO]: Done (33.157s)! For help, type "help"
+[00:04:47] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.4.2, you're on: 5.4.1
+[00:04:48] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[00:05:01] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 100 tiles rendered (86.84 msec/tile, 77.49 msec per render)
+[00:05:09] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 200 tiles rendered (84.48 msec/tile, 77.56 msec per render)
+[00:05:17] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 300 tiles rendered (83.72 msec/tile, 77.50 msec per render)
+[00:05:25] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 400 tiles rendered (82.99 msec/tile, 76.66 msec per render)
+[00:05:34] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 500 tiles rendered (83.16 msec/tile, 76.72 msec per render)
+[00:05:42] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 600 tiles rendered (83.94 msec/tile, 77.40 msec per render)
+[00:05:52] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 700 tiles rendered (85.75 msec/tile, 78.45 msec per render)
+[00:06:02] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 800 tiles rendered (86.85 msec/tile, 79.19 msec per render)
+[00:06:07] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 900 tiles rendered (83.08 msec/tile, 75.75 msec per render)
+[00:06:15] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 1000 tiles rendered (83.10 msec/tile, 75.86 msec per render)
+[00:06:24] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 1100 tiles rendered (83.22 msec/tile, 76.10 msec per render)
+[00:06:32] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 1200 tiles rendered (82.84 msec/tile, 76.01 msec per render)
+[00:06:40] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 1300 tiles rendered (83.21 msec/tile, 76.68 msec per render)
+[00:06:49] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 1400 tiles rendered (83.27 msec/tile, 77.01 msec per render)
+[00:06:55] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 1500 tiles rendered (82.00 msec/tile, 76.06 msec per render)
+[00:06:55] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' completed - 1507 tiles rendered (81.66 msec/map-tile, 75.75 msec per render)
+[00:07:18] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 100 tiles rendered (230.10 msec/tile, 225.29 msec per render)
+[00:07:28] [User Authenticator #0/INFO]: UUID of player Griffo is 70a9b541-e6e9-3990-9e1e-0c95cddf8b1f
+[00:07:28] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [Essentials, GriefPrevention, WorldGuard]
+[00:07:29] [Server thread/INFO]: Griffo joined the game
+[00:07:29] [Server thread/INFO]: Griffo[/127.219.183.12:55751] logged in with entity id 90 at ([world]-77.03547764014482, 101.49313633802555, 102.10418590309115)
+[00:07:34] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 7cea4b2f-d59c-42b9-847f-5b02e04005f2, mapped to Wolf['Wolf'/187, uuid='7cea4b2f-d59c-42b9-847f-5b02e04005f2', l='ServerLevel[world]', x=-21.37, y=67.00, z=286.37, cpos=[-2, 17], tl=0, v=true], can't add Wolf['Wolf'/192, uuid='7cea4b2f-d59c-42b9-847f-5b02e04005f2', l='ServerLevel[world]', x=-21.72, y=68.00, z=288.50, cpos=[-2, 18], tl=0, v=false]
+[00:12:19] [Server thread/INFO]: Griffo was kicked due to keepalive timeout!
+[00:12:19] [Server thread/INFO]: Griffo lost connection: Timed out
+[00:12:19] [Server thread/INFO]: Griffo left the game

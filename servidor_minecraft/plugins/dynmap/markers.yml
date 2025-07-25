@@ -12,8 +12,15 @@ sets:
         areas: {
             }
         label: Markers
-        markers: {
-            }
+        markers:
+            marker_1:
+                world: world
+                markup: false
+                x: -16.0
+                icon: temple
+                y: 72.0
+                z: 64.0
+                label: '~'
         lines: {
             }
         layerprio: 0
