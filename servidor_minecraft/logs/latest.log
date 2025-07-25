@@ -170,3 +170,15 @@
 [03:27:24] [Craft Scheduler Thread - 1 - Essentials/INFO]: [Essentials] Fetching version information...
 [03:27:24] [Server thread/INFO]: Done (43.747s)! For help, type "help"
 [03:27:25] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.4.2, you're on: 5.4.1
+[03:54:53] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Lupper6472
+[03:54:53] [localSession-7-2/INFO]: [Geyser-Spigot] Lupper6472 (logged in as: Lupper6472) has connected to the Java server
+[03:54:53] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [Essentials, GriefPrevention, WorldGuard]
+[03:54:54] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Lupper6472 joined (UUID: 00000000-0000-0000-0009-01fbd3b52131)
+[03:54:54] [Server thread/INFO]: .Lupper6472 joined the game
+[03:54:54] [Server thread/INFO]: .Lupper6472[/127.219.183.12:0] logged in with entity id 81 at ([world]-9.5, 70.0, 56.5)
+[03:56:06] [Server thread/INFO]: .Lupper6472 issued server command: /warp
+[03:56:06] [Server thread/INFO]: [Essentials] .Lupper6472 was denied access to command.
+[03:56:07] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[03:56:59] [Server thread/INFO]: .Lupper6472 issued server command: /sel
+[03:57:15] [Server thread/INFO]: .Lupper6472 issued server command: /help
+[03:57:15] [Server thread/INFO]: [Essentials] .Lupper6472 was denied access to command.
