@@ -169,3 +169,9 @@
 [01:03:12] [Craft Scheduler Thread - 1 - Essentials/INFO]: [Essentials] Fetching version information...
 [01:03:12] [Server thread/INFO]: Done (42.245s)! For help, type "help"
 [01:03:13] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.4.2, you're on: 5.4.1
+[01:27:59] [User Authenticator #0/INFO]: UUID of player Griffo is 70a9b541-e6e9-3990-9e1e-0c95cddf8b1f
+[01:27:59] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [Essentials, GriefPrevention, WorldGuard]
+[01:28:01] [Server thread/INFO]: Griffo joined the game
+[01:28:01] [Server thread/INFO]: Griffo[/127.236.161.245:36749] logged in with entity id 53 at ([world]-22.611515038782226, 68.9375, 163.91549806911553)
+[01:29:54] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[01:31:49] [Server thread/INFO]: Griffo issued server command: //set 0
